@@ -35,5 +35,5 @@
 
 1. Скачайте все файлы проекта:
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/password-generator.git
+git clone https://github.com/RichterAndrey/password-generator.git
 cd password-generator
